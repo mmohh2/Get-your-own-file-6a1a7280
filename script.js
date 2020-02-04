@@ -1,1 +1,5 @@
-console.log(["hello wereld"]);
+
+new Document();
+
+var objRef = document.body;
+document.body = objRef;
